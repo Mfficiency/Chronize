@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F7FCFB</color>
+    <color name="colorPrimaryDark">#A4A7A7</color>
+    <color name="colorAccent">#E05E8D</color>
+    <color name="titlebar">#292727</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#0C0A0A</color>
+    <color name="menuColor">#242222</color>
+
+    <color name="separator">#B4B2B2</color>
+    <color name="lightgrey">#C2BDBD</color>
+    <color name="offcolor">#6B6969</color>
+    <color name="trackcolor">#444343</color>
+
+
+</resources>
