@@ -39,7 +39,7 @@ class MainActivity : AppCompatActivity() {
         changeTextColor()
     }
 
-    fun changeTextColor(){
+    fun changeTextColor(){ //changes the color on screen
         if(onoff_switch.isChecked){
             alarm.setTextColor(getResources().getColor(R.color.white))
             alarmTime.setTextColor(getResources().getColor(R.color.white))
@@ -49,9 +49,9 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    fun setTime(){
+    fun setTime(){ //set the time the alarm will go off
             alarmTime.setOnClickListener {
-                if(onoff_switch.isChecked){
+                //if(onoff_switch.isChecked){
                     val cal = Calendar.getInstance()
                     val timeSetListener = TimePickerDialog.OnTimeSetListener { timePicker, hour, minute ->
 
@@ -76,9 +76,12 @@ class MainActivity : AppCompatActivity() {
                     }
 
                     TimePickerDialog(this, timeSetListener, cal.get(Calendar.HOUR_OF_DAY),
-                        cal.get(Calendar.MINUTE), true).show()
-                }
-
+                        cal.get(Calendar.MINUTE+1), true).show() //TODO: on the first click it's 12.00, but once it's set it needs to stay the same, no auto update, maybe a test flow and a release flow
+                //}
+                setTimeAndAlarm(this)
+                saveSwitchStatus(true)
+                onoff_switch.isChecked = true
+                changeTextColor()
             }
 
     }

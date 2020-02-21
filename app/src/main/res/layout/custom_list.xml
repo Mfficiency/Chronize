@@ -31,20 +31,7 @@
         android:layout_marginTop="10dp"
         android:layout_marginBottom="10dp"
         android:layout_marginStart="35dp">
-        <TextView
-            android:id="@+id/hom"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="- Home Screen"
-            android:textColor="@color/white"
-            android:textSize="19sp"/>
-        <TextView
-            android:id="@+id/menus"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="- Menu"
-            android:textColor="@color/white"
-            android:textSize="19sp"/>
+
         <TextView
             android:id="@+id/infos"
             android:layout_width="wrap_content"
