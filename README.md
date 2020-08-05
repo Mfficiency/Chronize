@@ -1,5 +1,8 @@
 # Chronize
-A simple alarm app
+Visualise your time
+
+The goal of this app is to have beter control over your time. Integrating with your existing calendar to help you remember things when you need to.
+How much time you have until the next appointement, if your flight is canceled, if your partner is running late for a meeting.
 
 		• The app has a home screen and an information tab.
 		• The home screen has only one alarm
@@ -20,4 +23,4 @@ A simple alarm app
 			• I should be able to find my way easily trough the code
 The logo of the app will be provided
 
-![Image of timeline](https://fq4a7w.db.files.1drv.com/y4m6EWs1LyTRuHJKZp7TvZn1Laor1aIPwXbRK8NPRdfG_o6OpV9rsmC1LamTtiwIpRxnSiNWCDC46c0GUmG93DX4PCbqodBbSHDxGiQbDoDnKZwdRly5I7GLYYFr7tghHdCeJ0AubmWGjvCJ04qx4BMuuUX6_fT0V0gTqF1nZ0tgxvekT0qNAygHEec8aBUEsimYUvwxCyF1mddkOVZQ5Y4fQ?width=375&height=667&cropmode=none)
+![Image of timeline](https://fq4a7w.db.files.1drv.com/y4m6EWs1LyTRuHJKZp7TvZn1Laor1aIPwXbRK8NPRdfG_o6OpV9rsmC1LamTtiwIpRxnSiNWCDC46c0GUmG93DX4PCbqodBbSHDxGiQbDoDnKZwdRly5I7GLYYFr7tghHdCeJ0AubmWGjvCJ04qx4BMuuUX6_fT0V0gTqF1nZ0tgxvekT0qNAygHEec8aBUEsimYUvwxCyF1mddkOVZQ5Y4fQ?width=144&height=256&cropmode=none)
