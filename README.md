@@ -1,4 +1,4 @@
-# StretchTimer
+# Chronize
 A simple alarm app
 
 		• The app has a home screen and an information tab.
