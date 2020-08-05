@@ -9,7 +9,7 @@ Part of the study is also how to maximize efficiency building the app, understan
 - defining the scope of the first iteration.
 
 ### The first iteration
-In order to get a feel for working with developers a few timezones away I decided to keep the first iteration super basic. Just one alarm, nothing else.
+In order to get a feel for working with developers a few timezones away I decided to keep the first iteration super basic. Just one alarm, nothing else. The app can be downloaded [here](https://play.google.com/store/apps/details?id=com.app.stretchtimer)
 
 ### The current iteration
 Right now I'm working on the wireframes for the MVP. Multiple alarms and the basic functionality of the main timeline. You can find the screenshots below or a clickable model [here](https://xd.adobe.com/view/2a5baf0b-e15b-418a-4f72-51500a62ce9e-5c6a/).
