@@ -13,6 +13,11 @@ In order to get a feel for working with developers a few timezones away I decide
 
 ### The current iteration
 Right now I'm working on the wireframes for the MVP. Multiple alarms and the basic functionality of the main timeline. You can find the screenshots below or a clickable model [here](https://xd.adobe.com/view/2a5baf0b-e15b-418a-4f72-51500a62ce9e-5c6a/).
+The key functions of this iteration are:
+- Multiple alarms
+- The timeline that shows the time until the next alarm as you scroll
+- Adding and editing alarms on the timeline
+- Making all the pages to test the placement of the buttons & menu
 
 ![Image of timeline 1](https://yqi6ww.db.files.1drv.com/y4mDLQVLUJiqHzXZdJdRqeRND8zNNkRwhL9HVxrZ9shQX59IWY3KcmFG7vZ_0rs_ZMwYfLtZyopnGvUgilbLF6dFZWT0mIuxAbRZnrjIvopGRHMFeWTExh4hwUt46fY3D_HhbuAmRHUZ-YPQwXJhCQPTCEGsJk-RMQQFiTb3ggb9_ipZ-s6B71D7Vf1XoR_VIIFJCUhhkU7K97S3GIrAqWFYQ?width=144&height=256&cropmode=none)
 ![Image of timeline 2](https://zrfizq.db.files.1drv.com/y4mwNSEU7V1zFnkIYpXmuyyBA11hq105xe8SaNdsFqmXqXaaMh2laYBOjw19DeV8ISQAGecsa_xSgReidkz7nFM4VQtGBBsgEiu_6Im00NnDIuQpmFFNjd3OSkJ3aR0IjR7zU1OCZ7QVL_QE4-i1IXJV4bRwaClMxYhY0DSRhHmsZhrN-RnsVK-2XHbr-aCvrd6e2BVeVsAAIyKs1EjX7pL0w?width=144&height=256&cropmode=none)
