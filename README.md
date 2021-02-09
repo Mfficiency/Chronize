@@ -1,6 +1,6 @@
 # Intro
 
-The goal of this app is to have beter control over your time. Integrating with your existing calendar to help you remember things when you need to.
+The goal of this app is to have better control over your time. Integrating with your existing calendar to help you remember things when you need to.
 How much time you have until the next appointement, if your flight is canceled, if your partner is running late for a meeting.
 
 
